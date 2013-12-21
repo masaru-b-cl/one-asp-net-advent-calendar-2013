@@ -1,10 +1,7 @@
-﻿using Microsoft.AspNet.FriendlyUrls;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+
+using Microsoft.AspNet.FriendlyUrls;
 
 namespace FriendlyURLsSample
 {
